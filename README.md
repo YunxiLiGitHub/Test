@@ -1,3 +1,8 @@
+MIT高赞深度学习教程：一文看懂CNN、RNN等7种范例（TensorFlow教程）
+https://cloud.tencent.com/developer/news/393430
+http://www.sohu.com/a/293490936_473283
+
+
 # MIT Deep Learning
 
 <a href="https://deeplearning.mit.edu/"><img src="https://deeplearning.mit.edu/files/images/mit_deep_learning.png"></a>
